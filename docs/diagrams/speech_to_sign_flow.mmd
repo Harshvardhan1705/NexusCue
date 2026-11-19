@@ -1,0 +1,17 @@
+flowchart TD
+ A[Speak or type English] --> B{Input method}
+ B -->|Microphone| C[Capture audio and recognize speech]
+ B -->|Typed| D[Editable transcript]
+ C --> D
+ D --> E[POST /api/generate]
+ E --> F{Sentence sequence found?}
+ F -->|Yes| G[Load sentence frames]
+ F -->|No| H{Exact CSV gloss found?}
+ H -->|Yes| I[Tokenize gloss and resolve sign assets]
+ H -->|No| J[English A-Z fallback]
+ I -->|Missing token asset| J
+ G --> K[OpenCV MP4 rendering]
+ I --> K
+ J --> K
+ K --> L[Return MP4 + mode header]
+ L --> M[Preview and playback]

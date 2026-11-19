@@ -1,0 +1,49 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# ISL Alphabet dataset - hosted separately
+Dataset/ISL_Alphabet/
+
+# Large CSLRT frame and video collections
+Dataset/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Sentence_Level/
+Dataset/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Frames_Word_Level/
+Dataset/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Videos_Sentence_Level/
+
+# Bulk and recovered frame sequences
+Dataset/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/bulk_sentence_sequences/
+Dataset/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/recovered_sentence_frames/
+Dataset/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/recovered_sentence_frames_10fps/
+
+# Generated videos and temporary outputs
+**/api_generated_videos/
+**/desktop_generated_videos/
+**/sign_output.mp4
+*.mp4
+
+# Inspection and temporary folders
+**/__pycache__/
+**/face_detection_test/
+**/candidate_4_inspection/
+**/candidate_4_group3_validation/
+**/sign_previews/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

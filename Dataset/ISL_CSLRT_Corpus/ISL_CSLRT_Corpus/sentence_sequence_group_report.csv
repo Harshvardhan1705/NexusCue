@@ -1,0 +1,657 @@
+﻿sentence,signer_group,folder,folder_exists,frame_count,unreadable_count,unreadable_files,first_frame,last_frame
+are you free today,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_free_today\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+are you free today,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_free_today\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+are you free today,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_free_today\group_3,True,42,0,,frame_0001.jpg,frame_0042.jpg
+are you free today,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_free_today\group_4,True,32,0,,frame_0001.jpg,frame_0032.jpg
+are you free today,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_free_today\group_5,True,40,0,,frame_0001.jpg,frame_0040.jpg
+are you free today,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_free_today\group_6,True,34,0,,frame_0001.jpg,frame_0034.jpg
+are you free today,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_free_today\group_7,True,48,0,,frame_0001.jpg,frame_0048.jpg
+are you hiding something,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_hiding_something\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+are you hiding something,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_hiding_something\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+are you hiding something,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_hiding_something\group_3,True,34,0,,frame_0001.jpg,frame_0034.jpg
+are you hiding something,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_hiding_something\group_4,True,36,0,,frame_0001.jpg,frame_0036.jpg
+are you hiding something,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_hiding_something\group_5,True,42,0,,frame_0001.jpg,frame_0042.jpg
+are you hiding something,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_hiding_something\group_6,True,20,0,,frame_0001.jpg,frame_0020.jpg
+are you hiding something,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\are_you_hiding_something\group_7,True,39,0,,frame_0001.jpg,frame_0039.jpg
+bring water for me,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\bring_water_for_me\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+bring water for me,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\bring_water_for_me\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+bring water for me,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\bring_water_for_me\group_3,True,47,0,,frame_0001.jpg,frame_0047.jpg
+bring water for me,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\bring_water_for_me\group_4,True,37,0,,frame_0001.jpg,frame_0037.jpg
+bring water for me,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\bring_water_for_me\group_5,True,36,0,,frame_0001.jpg,frame_0036.jpg
+bring water for me,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\bring_water_for_me\group_6,True,40,0,,frame_0001.jpg,frame_0040.jpg
+bring water for me,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\bring_water_for_me\group_7,True,39,0,,frame_0001.jpg,frame_0039.jpg
+can i help you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_i_help_you\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+can i help you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_i_help_you\group_2,True,15,0,,frame_0001.jpg,frame_0015.jpg
+can i help you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_i_help_you\group_3,True,31,0,,frame_0001.jpg,frame_0031.jpg
+can i help you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_i_help_you\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+can i help you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_i_help_you\group_5,True,29,0,,frame_0001.jpg,frame_0029.jpg
+can i help you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_i_help_you\group_6,True,26,0,,frame_0001.jpg,frame_0026.jpg
+can i help you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_i_help_you\group_7,True,28,0,,frame_0001.jpg,frame_0028.jpg
+can you repeat that please,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_you_repeat_that_please\group_1,True,41,0,,frame_0001.jpg,frame_0041.jpg
+can you repeat that please,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_you_repeat_that_please\group_2,True,11,0,,frame_0001.jpg,frame_0011.jpg
+can you repeat that please,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_you_repeat_that_please\group_3,True,44,0,,frame_0001.jpg,frame_0044.jpg
+can you repeat that please,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_you_repeat_that_please\group_4,True,37,0,,frame_0001.jpg,frame_0037.jpg
+can you repeat that please,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_you_repeat_that_please\group_5,True,40,0,,frame_0001.jpg,frame_0040.jpg
+can you repeat that please,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_you_repeat_that_please\group_6,True,41,0,,frame_0001.jpg,frame_0041.jpg
+can you repeat that please,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\can_you_repeat_that_please\group_7,True,44,0,,frame_0001.jpg,frame_0044.jpg
+comb your hair,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\comb_your_hair\group_1,True,18,0,,frame_0001.jpg,frame_0018.jpg
+comb your hair,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\comb_your_hair\group_2,True,13,0,,frame_0001.jpg,frame_0013.jpg
+comb your hair,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\comb_your_hair\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+comb your hair,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\comb_your_hair\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+comb your hair,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\comb_your_hair\group_5,True,32,0,,frame_0001.jpg,frame_0032.jpg
+comb your hair,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\comb_your_hair\group_6,True,23,0,,frame_0001.jpg,frame_0023.jpg
+comb your hair,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\comb_your_hair\group_7,True,23,0,,frame_0001.jpg,frame_0023.jpg
+congratulations,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\congratulations\group_1,True,14,0,,frame_0001.jpg,frame_0014.jpg
+congratulations,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\congratulations\group_2,True,14,0,,frame_0001.jpg,frame_0014.jpg
+congratulations,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\congratulations\group_3,True,15,0,,frame_0001.jpg,frame_0015.jpg
+congratulations,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\congratulations\group_4,True,17,0,,frame_0001.jpg,frame_0017.jpg
+congratulations,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\congratulations\group_5,True,22,0,,frame_0001.jpg,frame_0022.jpg
+congratulations,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\congratulations\group_6,True,17,0,,frame_0001.jpg,frame_0017.jpg
+congratulations,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\congratulations\group_7,True,24,0,,frame_0001.jpg,frame_0024.jpg
+could you please talk slower,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\could_you_please_talk_slower\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+could you please talk slower,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\could_you_please_talk_slower\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+could you please talk slower,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\could_you_please_talk_slower\group_3,True,48,0,,frame_0001.jpg,frame_0048.jpg
+could you please talk slower,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\could_you_please_talk_slower\group_4,True,42,0,,frame_0001.jpg,frame_0042.jpg
+could you please talk slower,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\could_you_please_talk_slower\group_5,True,48,0,,frame_0001.jpg,frame_0048.jpg
+could you please talk slower,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\could_you_please_talk_slower\group_6,True,46,0,,frame_0001.jpg,frame_0046.jpg
+could you please talk slower,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\could_you_please_talk_slower\group_7,True,57,0,,frame_0001.jpg,frame_0057.jpg
+do me a favour,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_me_a_favour\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do me a favour,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_me_a_favour\group_2,True,15,0,,frame_0001.jpg,frame_0015.jpg
+do me a favour,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_me_a_favour\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+do me a favour,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_me_a_favour\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do me a favour,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_me_a_favour\group_5,True,31,0,,frame_0001.jpg,frame_0031.jpg
+do me a favour,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_me_a_favour\group_6,True,25,0,,frame_0001.jpg,frame_0025.jpg
+do me a favour,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_me_a_favour\group_7,True,28,0,,frame_0001.jpg,frame_0028.jpg
+do not abuse him,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_abuse_him\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do not abuse him,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_abuse_him\group_2,True,9,0,,frame_0001.jpg,frame_0009.jpg
+do not abuse him,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_abuse_him\group_3,True,21,0,,frame_0001.jpg,frame_0021.jpg
+do not abuse him,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_abuse_him\group_5,True,27,0,,frame_0001.jpg,frame_0027.jpg
+do not abuse him,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_abuse_him\group_6,True,19,0,,frame_0001.jpg,frame_0019.jpg
+do not abuse him,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_abuse_him\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do not be stubborn,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_be_stubborn\group_1,True,28,0,,frame_0001.jpg,frame_0028.jpg
+do not be stubborn,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_be_stubborn\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do not be stubborn,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_be_stubborn\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+do not be stubborn,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_be_stubborn\group_4,True,36,0,,frame_0001.jpg,frame_0036.jpg
+do not be stubborn,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_be_stubborn\group_5,True,43,0,,frame_0001.jpg,frame_0043.jpg
+do not be stubborn,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_be_stubborn\group_6,True,34,0,,frame_0001.jpg,frame_0034.jpg
+do not hurt me,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_hurt_me\group_1,True,20,0,,frame_0001.jpg,frame_0020.jpg
+do not hurt me,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_hurt_me\group_2,True,14,0,,frame_0001.jpg,frame_0014.jpg
+do not hurt me,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_hurt_me\group_3,True,28,0,,frame_0001.jpg,frame_0028.jpg
+do not hurt me,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_hurt_me\group_4,True,23,0,,frame_0001.jpg,frame_0023.jpg
+do not hurt me,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_hurt_me\group_5,True,20,0,,frame_0001.jpg,frame_0020.jpg
+do not hurt me,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_hurt_me\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do not hurt me,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_hurt_me\group_7,True,32,0,,frame_0001.jpg,frame_0032.jpg
+do not make me angry,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_make_me_angry\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+do not make me angry,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_make_me_angry\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do not make me angry,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_make_me_angry\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+do not make me angry,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_make_me_angry\group_4,True,40,0,,frame_0001.jpg,frame_0040.jpg
+do not make me angry,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_make_me_angry\group_5,True,44,0,,frame_0001.jpg,frame_0044.jpg
+do not make me angry,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_make_me_angry\group_6,True,39,0,,frame_0001.jpg,frame_0039.jpg
+do not make me angry,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_make_me_angry\group_7,True,38,0,,frame_0001.jpg,frame_0038.jpg
+do not take it to the heart,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_take_it_to_the_heart\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+do not take it to the heart,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_take_it_to_the_heart\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do not take it to the heart,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_take_it_to_the_heart\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+do not take it to the heart,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_take_it_to_the_heart\group_4,True,49,0,,frame_0001.jpg,frame_0049.jpg
+do not take it to the heart,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_take_it_to_the_heart\group_5,True,50,0,,frame_0001.jpg,frame_0050.jpg
+do not take it to the heart,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_take_it_to_the_heart\group_6,True,46,0,,frame_0001.jpg,frame_0046.jpg
+do not take it to the heart,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_take_it_to_the_heart\group_7,True,45,0,,frame_0001.jpg,frame_0045.jpg
+do not worry,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_worry\group_1,True,18,0,,frame_0001.jpg,frame_0018.jpg
+do not worry,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_worry\group_2,True,18,0,,frame_0001.jpg,frame_0018.jpg
+do not worry,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_worry\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do not worry,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_worry\group_4,True,24,0,,frame_0001.jpg,frame_0024.jpg
+do not worry,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_worry\group_5,True,23,0,,frame_0001.jpg,frame_0023.jpg
+do not worry,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_worry\group_6,True,21,0,,frame_0001.jpg,frame_0021.jpg
+do not worry,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_not_worry\group_7,True,24,0,,frame_0001.jpg,frame_0024.jpg
+do you need something,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_you_need_something\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do you need something,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_you_need_something\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+do you need something,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_you_need_something\group_4,True,20,0,,frame_0001.jpg,frame_0020.jpg
+do you need something,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_you_need_something\group_5,True,64,0,,frame_0001.jpg,frame_0064.jpg
+do you need something,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_you_need_something\group_6,True,59,0,,frame_0001.jpg,frame_0059.jpg
+do you need something,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\do_you_need_something\group_7,True,57,0,,frame_0001.jpg,frame_0057.jpg
+go and sleep,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\go_and_sleep\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+go and sleep,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\go_and_sleep\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+go and sleep,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\go_and_sleep\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+go and sleep,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\go_and_sleep\group_4,True,28,0,,frame_0001.jpg,frame_0028.jpg
+go and sleep,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\go_and_sleep\group_5,True,37,0,,frame_0001.jpg,frame_0037.jpg
+go and sleep,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\go_and_sleep\group_6,True,41,0,,frame_0001.jpg,frame_0041.jpg
+go and sleep,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\go_and_sleep\group_7,True,37,0,,frame_0001.jpg,frame_0037.jpg
+had your food,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\had_your_food\group_1,True,13,0,,frame_0001.jpg,frame_0013.jpg
+had your food,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\had_your_food\group_2,True,13,0,,frame_0001.jpg,frame_0013.jpg
+had your food,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\had_your_food\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+had your food,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\had_your_food\group_4,True,20,0,,frame_0001.jpg,frame_0020.jpg
+had your food,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\had_your_food\group_5,True,22,0,,frame_0001.jpg,frame_0022.jpg
+had your food,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\had_your_food\group_6,True,21,0,,frame_0001.jpg,frame_0021.jpg
+had your food,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\had_your_food\group_7,True,24,0,,frame_0001.jpg,frame_0024.jpg
+he came by train,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_came_by_train\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+he came by train,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_came_by_train\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+he came by train,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_came_by_train\group_3,True,19,0,,frame_0001.jpg,frame_0019.jpg
+he came by train,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_came_by_train\group_4,True,21,0,,frame_0001.jpg,frame_0021.jpg
+he came by train,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_came_by_train\group_5,True,25,0,,frame_0001.jpg,frame_0025.jpg
+he came by train,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_came_by_train\group_6,True,23,0,,frame_0001.jpg,frame_0023.jpg
+he came by train,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_came_by_train\group_7,True,27,0,,frame_0001.jpg,frame_0027.jpg
+He is going into the room,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\He_is_going_into_the_room\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+He is going into the room,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\He_is_going_into_the_room\group_2,True,20,0,,frame_0001.jpg,frame_0020.jpg
+He is going into the room,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\He_is_going_into_the_room\group_3,True,36,0,,frame_0001.jpg,frame_0036.jpg
+He is going into the room,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\He_is_going_into_the_room\group_4,True,31,0,,frame_0001.jpg,frame_0031.jpg
+He is going into the room,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\He_is_going_into_the_room\group_5,True,40,0,,frame_0001.jpg,frame_0040.jpg
+He is going into the room,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\He_is_going_into_the_room\group_6,True,32,0,,frame_0001.jpg,frame_0032.jpg
+He is going into the room,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\He_is_going_into_the_room\group_7,True,35,0,,frame_0001.jpg,frame_0035.jpg
+he is on the way,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_is_on_the_way\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+he is on the way,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_is_on_the_way\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+he is on the way,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_is_on_the_way\group_3,True,19,0,,frame_0001.jpg,frame_0019.jpg
+he is on the way,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_is_on_the_way\group_5,True,91,0,,frame_0001.jpg,frame_0091.jpg
+he is on the way,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_is_on_the_way\group_6,True,94,0,,frame_0001.jpg,frame_0094.jpg
+he is on the way,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_is_on_the_way\group_7,True,73,0,,frame_0001.jpg,frame_0073.jpg
+he she is my friend,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_she_is_my_friend\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+he she is my friend,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_she_is_my_friend\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+he she is my friend,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_she_is_my_friend\group_3,True,37,0,,frame_0001.jpg,frame_0037.jpg
+he she is my friend,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_she_is_my_friend\group_4,True,20,0,,frame_0001.jpg,frame_0020.jpg
+he she is my friend,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_she_is_my_friend\group_5,True,34,0,,frame_0001.jpg,frame_0034.jpg
+he she is my friend,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_she_is_my_friend\group_6,True,32,0,,frame_0001.jpg,frame_0032.jpg
+he she is my friend,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\he_she_is_my_friend\group_7,True,39,0,,frame_0001.jpg,frame_0039.jpg
+help me,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\help_me\group_1,True,11,0,,frame_0001.jpg,frame_0011.jpg
+help me,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\help_me\group_2,True,11,0,,frame_0001.jpg,frame_0011.jpg
+help me,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\help_me\group_3,True,42,0,,frame_0001.jpg,frame_0042.jpg
+help me,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\help_me\group_4,True,34,0,,frame_0001.jpg,frame_0034.jpg
+help me,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\help_me\group_5,True,31,0,,frame_0001.jpg,frame_0031.jpg
+help me,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\help_me\group_6,True,29,0,,frame_0001.jpg,frame_0029.jpg
+help me,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\help_me\group_7,True,40,0,,frame_0001.jpg,frame_0040.jpg
+hi how are you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\hi_how_are_you\group_1,True,41,0,,frame_0001.jpg,frame_0041.jpg
+hi how are you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\hi_how_are_you\group_2,True,31,0,,frame_0001.jpg,frame_0031.jpg
+hi how are you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\hi_how_are_you\group_3,True,63,0,,frame_0001.jpg,frame_0063.jpg
+hi how are you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\hi_how_are_you\group_4,True,42,0,,frame_0001.jpg,frame_0042.jpg
+hi how are you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\hi_how_are_you\group_5,True,44,0,,frame_0001.jpg,frame_0044.jpg
+hi how are you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\hi_how_are_you\group_6,True,37,0,,frame_0001.jpg,frame_0037.jpg
+hi how are you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\hi_how_are_you\group_7,True,45,0,,frame_0001.jpg,frame_0045.jpg
+how are things,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_are_things\group_1,True,80,0,,frame_0001.jpg,frame_0080.jpg
+how are things,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_are_things\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+how are things,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_are_things\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+how are things,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_are_things\group_5,True,119,0,,frame_0001.jpg,frame_0119.jpg
+how are things,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_are_things\group_6,True,131,0,,frame_0001.jpg,frame_0131.jpg
+how are things,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_are_things\group_7,True,147,0,,frame_0001.jpg,frame_0147.jpg
+how can i help you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_help_you\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+how can i help you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_help_you\group_2,True,11,0,,frame_0001.jpg,frame_0011.jpg
+how can i help you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_help_you\group_3,True,37,0,,frame_0001.jpg,frame_0037.jpg
+how can i help you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_help_you\group_4,True,35,0,,frame_0001.jpg,frame_0035.jpg
+how can i help you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_help_you\group_5,True,39,0,,frame_0001.jpg,frame_0039.jpg
+how can i help you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_help_you\group_6,True,37,0,,frame_0001.jpg,frame_0037.jpg
+how can i help you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_help_you\group_7,True,54,0,,frame_0001.jpg,frame_0054.jpg
+how can i trust you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_trust_you\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+how can i trust you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_trust_you\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+how can i trust you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_trust_you\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+how can i trust you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_trust_you\group_4,True,40,0,,frame_0001.jpg,frame_0040.jpg
+how can i trust you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_trust_you\group_5,True,63,0,,frame_0001.jpg,frame_0063.jpg
+how can i trust you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_trust_you\group_6,True,51,0,,frame_0001.jpg,frame_0051.jpg
+how can i trust you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_can_i_trust_you\group_7,True,47,0,,frame_0001.jpg,frame_0047.jpg
+how dare you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_dare_you\group_1,True,13,0,,frame_0001.jpg,frame_0013.jpg
+how dare you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_dare_you\group_2,True,24,0,,frame_0001.jpg,frame_0024.jpg
+how dare you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_dare_you\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+how dare you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_dare_you\group_4,True,19,0,,frame_0001.jpg,frame_0019.jpg
+how dare you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_dare_you\group_5,True,23,0,,frame_0001.jpg,frame_0023.jpg
+how dare you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_dare_you\group_6,True,19,0,,frame_0001.jpg,frame_0019.jpg
+how dare you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_dare_you\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+how old are you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_old_are_you\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+how old are you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_old_are_you\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+how old are you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_old_are_you\group_3,True,44,0,,frame_0001.jpg,frame_0044.jpg
+how old are you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_old_are_you\group_4,True,39,0,,frame_0001.jpg,frame_0039.jpg
+how old are you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_old_are_you\group_5,True,33,0,,frame_0001.jpg,frame_0033.jpg
+how old are you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_old_are_you\group_6,True,35,0,,frame_0001.jpg,frame_0035.jpg
+how old are you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\how_old_are_you\group_7,True,45,0,,frame_0001.jpg,frame_0045.jpg
+i am (age),1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_age\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i am (age),3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_age\group_3,True,30,0,,frame_0001.jpg,frame_0030.jpg
+i am (age),4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_age\group_4,True,26,0,,frame_0001.jpg,frame_0026.jpg
+i am (age),5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_age\group_5,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i am (age),6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_age\group_6,True,27,0,,frame_0001.jpg,frame_0027.jpg
+i am (age),7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_age\group_7,True,35,0,,frame_0001.jpg,frame_0035.jpg
+i am afraid of that,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_afraid_of_that\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am afraid of that,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_afraid_of_that\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am afraid of that,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_afraid_of_that\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i am afraid of that,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_afraid_of_that\group_4,True,34,0,,frame_0001.jpg,frame_0034.jpg
+i am afraid of that,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_afraid_of_that\group_5,True,42,0,,frame_0001.jpg,frame_0042.jpg
+i am afraid of that,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_afraid_of_that\group_6,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i am afraid of that,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_afraid_of_that\group_7,True,33,0,,frame_0001.jpg,frame_0033.jpg
+i am crying,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_crying\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am crying,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_crying\group_2,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i am crying,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_crying\group_3,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i am crying,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_crying\group_4,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i am crying,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_crying\group_5,True,27,0,,frame_0001.jpg,frame_0027.jpg
+i am crying,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_crying\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am crying,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_crying\group_7,True,28,0,,frame_0001.jpg,frame_0028.jpg
+i am feeling bored,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_bored\group_1,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i am feeling bored,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_bored\group_2,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i am feeling bored,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_bored\group_3,True,28,0,,frame_0001.jpg,frame_0028.jpg
+i am feeling bored,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_bored\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am feeling bored,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_bored\group_5,True,35,0,,frame_0001.jpg,frame_0035.jpg
+i am feeling bored,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_bored\group_6,True,34,0,,frame_0001.jpg,frame_0034.jpg
+i am feeling bored,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_bored\group_7,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i am feeling cold,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_cold\group_1,True,15,0,,frame_0001.jpg,frame_0015.jpg
+i am feeling cold,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_cold\group_2,True,15,0,,frame_0001.jpg,frame_0015.jpg
+i am feeling cold,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_cold\group_3,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i am feeling cold,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_cold\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am feeling cold,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_cold\group_5,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i am feeling cold,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_cold\group_6,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i am feeling cold,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_feeling_cold\group_7,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i am fine. thank you sir,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_fine_thank_you_sir\group_1,True,13,0,,frame_0001.jpg,frame_0013.jpg
+i am fine. thank you sir,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_fine_thank_you_sir\group_2,True,9,0,,frame_0001.jpg,frame_0009.jpg
+i am fine. thank you sir,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_fine_thank_you_sir\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am fine. thank you sir,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_fine_thank_you_sir\group_4,True,18,0,,frame_0001.jpg,frame_0018.jpg
+i am fine. thank you sir,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_fine_thank_you_sir\group_5,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i am fine. thank you sir,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_fine_thank_you_sir\group_6,True,17,0,,frame_0001.jpg,frame_0017.jpg
+i am fine. thank you sir,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_fine_thank_you_sir\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am hungry,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_hungry\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i am hungry,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_hungry\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i am hungry,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_hungry\group_3,True,51,0,,frame_0001.jpg,frame_0051.jpg
+i am hungry,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_hungry\group_4,True,43,0,,frame_0001.jpg,frame_0043.jpg
+i am hungry,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_hungry\group_5,True,40,0,,frame_0001.jpg,frame_0040.jpg
+i am hungry,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_hungry\group_6,True,42,0,,frame_0001.jpg,frame_0042.jpg
+i am hungry,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_hungry\group_7,True,42,0,,frame_0001.jpg,frame_0042.jpg
+i am in dilemma what to do,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_in_dilemma_what_to_do\group_1,True,35,0,,frame_0001.jpg,frame_0035.jpg
+i am in dilemma what to do,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_in_dilemma_what_to_do\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am in dilemma what to do,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_in_dilemma_what_to_do\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i am in dilemma what to do,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_in_dilemma_what_to_do\group_4,True,42,0,,frame_0001.jpg,frame_0042.jpg
+i am in dilemma what to do,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_in_dilemma_what_to_do\group_5,True,50,0,,frame_0001.jpg,frame_0050.jpg
+i am in dilemma what to do,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_in_dilemma_what_to_do\group_6,True,52,0,,frame_0001.jpg,frame_0052.jpg
+i am in dilemma what to do,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_in_dilemma_what_to_do\group_7,True,39,0,,frame_0001.jpg,frame_0039.jpg
+i am not really sure,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_not_really_sure\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i am not really sure,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_not_really_sure\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i am not really sure,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_not_really_sure\group_3,True,40,0,,frame_0001.jpg,frame_0040.jpg
+i am not really sure,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_not_really_sure\group_4,True,32,0,,frame_0001.jpg,frame_0032.jpg
+i am not really sure,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_not_really_sure\group_5,True,42,0,,frame_0001.jpg,frame_0042.jpg
+i am not really sure,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_not_really_sure\group_6,True,33,0,,frame_0001.jpg,frame_0033.jpg
+i am not really sure,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_not_really_sure\group_7,True,38,0,,frame_0001.jpg,frame_0038.jpg
+i am really grateful,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_really_grateful\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i am really grateful,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_really_grateful\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i am really grateful,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_really_grateful\group_3,True,53,0,,frame_0001.jpg,frame_0053.jpg
+i am really grateful,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_really_grateful\group_4,True,39,0,,frame_0001.jpg,frame_0039.jpg
+i am really grateful,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_really_grateful\group_5,True,48,0,,frame_0001.jpg,frame_0048.jpg
+i am really grateful,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_really_grateful\group_6,True,44,0,,frame_0001.jpg,frame_0044.jpg
+i am really grateful,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_really_grateful\group_7,True,54,0,,frame_0001.jpg,frame_0054.jpg
+i am sitting in the class,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_sitting_in_the_class\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am sitting in the class,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_sitting_in_the_class\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+i am sitting in the class,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_sitting_in_the_class\group_3,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i am sitting in the class,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_sitting_in_the_class\group_4,True,33,0,,frame_0001.jpg,frame_0033.jpg
+i am sitting in the class,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_sitting_in_the_class\group_5,True,36,0,,frame_0001.jpg,frame_0036.jpg
+i am sitting in the class,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_sitting_in_the_class\group_6,True,37,0,,frame_0001.jpg,frame_0037.jpg
+i am sitting in the class,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_sitting_in_the_class\group_7,True,37,0,,frame_0001.jpg,frame_0037.jpg
+i am so sorry to hear that,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_so_sorry_to_hear_that\group_1,True,13,0,,frame_0001.jpg,frame_0013.jpg
+i am so sorry to hear that,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_so_sorry_to_hear_that\group_2,True,6,0,,frame_0001.jpg,frame_0006.jpg
+i am so sorry to hear that,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_so_sorry_to_hear_that\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i am so sorry to hear that,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_so_sorry_to_hear_that\group_4,True,15,0,,frame_0001.jpg,frame_0015.jpg
+i am so sorry to hear that,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_so_sorry_to_hear_that\group_5,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am so sorry to hear that,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_so_sorry_to_hear_that\group_6,True,19,0,,frame_0001.jpg,frame_0019.jpg
+i am so sorry to hear that,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_so_sorry_to_hear_that\group_7,True,19,0,,frame_0001.jpg,frame_0019.jpg
+i am suffering from fever,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_suffering_from_fever\group_1,True,16,0,,frame_0001.jpg,frame_0016.jpg
+i am suffering from fever,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_suffering_from_fever\group_2,True,16,0,,frame_0001.jpg,frame_0016.jpg
+i am suffering from fever,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_suffering_from_fever\group_3,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i am suffering from fever,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_suffering_from_fever\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am suffering from fever,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_suffering_from_fever\group_5,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i am suffering from fever,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_suffering_from_fever\group_6,True,30,0,,frame_0001.jpg,frame_0030.jpg
+i am suffering from fever,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_suffering_from_fever\group_7,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i am tired,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_tired\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am tired,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_tired\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am tired,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_tired\group_3,True,19,0,,frame_0001.jpg,frame_0019.jpg
+i am tired,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_tired\group_4,True,27,0,,frame_0001.jpg,frame_0027.jpg
+i am tired,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_tired\group_5,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i am tired,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_tired\group_6,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i am tired,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_tired\group_7,True,32,0,,frame_0001.jpg,frame_0032.jpg
+i am very happy,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_very_happy\group_1,True,19,0,,frame_0001.jpg,frame_0019.jpg
+i am very happy,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_very_happy\group_2,True,13,0,,frame_0001.jpg,frame_0013.jpg
+i am very happy,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_very_happy\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am very happy,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_very_happy\group_5,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i am very happy,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_very_happy\group_6,True,19,0,,frame_0001.jpg,frame_0019.jpg
+i am very happy,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_am_very_happy\group_7,True,27,0,,frame_0001.jpg,frame_0027.jpg
+i can not help you there,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_can_not_help_you_there\group_1,True,41,0,,frame_0001.jpg,frame_0041.jpg
+i can not help you there,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_can_not_help_you_there\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i can not help you there,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_can_not_help_you_there\group_3,True,44,0,,frame_0001.jpg,frame_0044.jpg
+i can not help you there,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_can_not_help_you_there\group_4,True,38,0,,frame_0001.jpg,frame_0038.jpg
+i can not help you there,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_can_not_help_you_there\group_5,True,41,0,,frame_0001.jpg,frame_0041.jpg
+i can not help you there,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_can_not_help_you_there\group_6,True,35,0,,frame_0001.jpg,frame_0035.jpg
+i can not help you there,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_can_not_help_you_there\group_7,True,52,0,,frame_0001.jpg,frame_0052.jpg
+i do not agree,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_agree\group_1,True,18,0,,frame_0001.jpg,frame_0018.jpg
+i do not agree,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_agree\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+i do not agree,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_agree\group_3,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i do not agree,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_agree\group_4,True,24,0,,frame_0001.jpg,frame_0024.jpg
+i do not agree,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_agree\group_5,True,25,0,,frame_0001.jpg,frame_0025.jpg
+i do not agree,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_agree\group_6,True,25,0,,frame_0001.jpg,frame_0025.jpg
+i do not agree,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_agree\group_7,True,30,0,,frame_0001.jpg,frame_0030.jpg
+i do not like it,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_like_it\group_1,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i do not like it,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_like_it\group_2,True,14,0,,frame_0001.jpg,frame_0014.jpg
+i do not like it,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_like_it\group_3,True,27,0,,frame_0001.jpg,frame_0027.jpg
+i do not like it,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_like_it\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i do not like it,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_like_it\group_5,True,25,0,,frame_0001.jpg,frame_0025.jpg
+i do not like it,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_like_it\group_6,True,25,0,,frame_0001.jpg,frame_0025.jpg
+i do not like it,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_like_it\group_7,True,26,0,,frame_0001.jpg,frame_0026.jpg
+i do not mean it,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_mean_it\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i do not mean it,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_mean_it\group_2,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i do not mean it,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_mean_it\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i do not mean it,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_mean_it\group_4,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i do not mean it,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_mean_it\group_5,True,26,0,,frame_0001.jpg,frame_0026.jpg
+i do not mean it,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_mean_it\group_6,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i do not mean it,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_do_not_mean_it\group_7,True,36,0,,frame_0001.jpg,frame_0036.jpg
+i enjoyed a lot,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_enjoyed_a_lot\group_1,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i enjoyed a lot,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_enjoyed_a_lot\group_2,True,14,0,,frame_0001.jpg,frame_0014.jpg
+i enjoyed a lot,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_enjoyed_a_lot\group_3,True,24,0,,frame_0001.jpg,frame_0024.jpg
+i enjoyed a lot,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_enjoyed_a_lot\group_4,True,19,0,,frame_0001.jpg,frame_0019.jpg
+i enjoyed a lot,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_enjoyed_a_lot\group_5,True,29,0,,frame_0001.jpg,frame_0029.jpg
+i enjoyed a lot,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_enjoyed_a_lot\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i enjoyed a lot,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_enjoyed_a_lot\group_7,True,25,0,,frame_0001.jpg,frame_0025.jpg
+i got hurt,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_got_hurt\group_1,True,14,0,,frame_0001.jpg,frame_0014.jpg
+i got hurt,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_got_hurt\group_2,True,10,0,,frame_0001.jpg,frame_0010.jpg
+i got hurt,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_got_hurt\group_3,True,18,0,,frame_0001.jpg,frame_0018.jpg
+i got hurt,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_got_hurt\group_4,True,17,0,,frame_0001.jpg,frame_0017.jpg
+i got hurt,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_got_hurt\group_5,True,19,0,,frame_0001.jpg,frame_0019.jpg
+i got hurt,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_got_hurt\group_6,True,17,0,,frame_0001.jpg,frame_0017.jpg
+i got hurt,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_got_hurt\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i like you i love you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_like_you_i_love_you\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i like you i love you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_like_you_i_love_you\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i like you i love you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_like_you_i_love_you\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i like you i love you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_like_you_i_love_you\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i like you i love you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_like_you_i_love_you\group_5,True,27,0,,frame_0001.jpg,frame_0027.jpg
+i like you i love you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_like_you_i_love_you\group_6,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i like you i love you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_like_you_i_love_you\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i need water,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_need_water\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i need water,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_need_water\group_2,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i need water,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_need_water\group_3,True,50,0,,frame_0001.jpg,frame_0050.jpg
+i need water,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_need_water\group_4,True,40,0,,frame_0001.jpg,frame_0040.jpg
+i need water,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_need_water\group_5,True,43,0,,frame_0001.jpg,frame_0043.jpg
+i need water,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_need_water\group_6,True,54,0,,frame_0001.jpg,frame_0054.jpg
+i need water,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_need_water\group_7,True,53,0,,frame_0001.jpg,frame_0053.jpg
+i promise,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_promise\group_1,True,12,0,,frame_0001.jpg,frame_0012.jpg
+i promise,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_promise\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+i promise,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_promise\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i promise,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_promise\group_4,True,25,0,,frame_0001.jpg,frame_0025.jpg
+i promise,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_promise\group_5,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i promise,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_promise\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i promise,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_promise\group_7,True,21,0,,frame_0001.jpg,frame_0021.jpg
+i really appreciate it,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_really_appreciate_it\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+i really appreciate it,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_really_appreciate_it\group_2,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i really appreciate it,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_really_appreciate_it\group_3,True,47,0,,frame_0001.jpg,frame_0047.jpg
+i really appreciate it,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_really_appreciate_it\group_4,True,40,0,,frame_0001.jpg,frame_0040.jpg
+i really appreciate it,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_really_appreciate_it\group_5,True,38,0,,frame_0001.jpg,frame_0038.jpg
+i really appreciate it,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_really_appreciate_it\group_6,True,37,0,,frame_0001.jpg,frame_0037.jpg
+i really appreciate it,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_really_appreciate_it\group_7,True,42,0,,frame_0001.jpg,frame_0042.jpg
+i somehow got to know about it,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_somehow_got_to_know_about_it\group_1,True,23,0,,frame_0001.jpg,frame_0023.jpg
+i somehow got to know about it,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_somehow_got_to_know_about_it\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+i somehow got to know about it,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_somehow_got_to_know_about_it\group_3,True,27,0,,frame_0001.jpg,frame_0027.jpg
+i somehow got to know about it,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_somehow_got_to_know_about_it\group_4,True,24,0,,frame_0001.jpg,frame_0024.jpg
+i somehow got to know about it,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_somehow_got_to_know_about_it\group_5,True,34,0,,frame_0001.jpg,frame_0034.jpg
+i somehow got to know about it,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_somehow_got_to_know_about_it\group_6,True,33,0,,frame_0001.jpg,frame_0033.jpg
+i somehow got to know about it,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_somehow_got_to_know_about_it\group_7,True,28,0,,frame_0001.jpg,frame_0028.jpg
+i was stopped by some one,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_was_stopped_by_some_one\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+i was stopped by some one,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_was_stopped_by_some_one\group_2,True,20,0,,frame_0001.jpg,frame_0020.jpg
+i was stopped by some one,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_was_stopped_by_some_one\group_3,True,34,0,,frame_0001.jpg,frame_0034.jpg
+i was stopped by some one,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_was_stopped_by_some_one\group_4,True,33,0,,frame_0001.jpg,frame_0033.jpg
+i was stopped by some one,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_was_stopped_by_some_one\group_5,True,36,0,,frame_0001.jpg,frame_0036.jpg
+i was stopped by some one,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_was_stopped_by_some_one\group_6,True,32,0,,frame_0001.jpg,frame_0032.jpg
+i was stopped by some one,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\i_was_stopped_by_some_one\group_7,True,29,0,,frame_0001.jpg,frame_0029.jpg
+it does not make any difference to me,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_does_not_make_any_difference_to_me\group_1,True,20,0,,frame_0001.jpg,frame_0020.jpg
+it does not make any difference to me,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_does_not_make_any_difference_to_me\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+it does not make any difference to me,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_does_not_make_any_difference_to_me\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+it does not make any difference to me,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_does_not_make_any_difference_to_me\group_4,True,63,0,,frame_0001.jpg,frame_0063.jpg
+it does not make any difference to me,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_does_not_make_any_difference_to_me\group_5,True,49,0,,frame_0001.jpg,frame_0049.jpg
+it does not make any difference to me,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_does_not_make_any_difference_to_me\group_6,True,49,0,,frame_0001.jpg,frame_0049.jpg
+it does not make any difference to me,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_does_not_make_any_difference_to_me\group_7,True,51,0,,frame_0001.jpg,frame_0051.jpg
+it was nice chatting with you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_was_nice_chatting_with_you\group_1,True,41,0,,frame_0001.jpg,frame_0041.jpg
+it was nice chatting with you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_was_nice_chatting_with_you\group_2,True,31,0,,frame_0001.jpg,frame_0031.jpg
+it was nice chatting with you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_was_nice_chatting_with_you\group_3,True,52,0,,frame_0001.jpg,frame_0052.jpg
+it was nice chatting with you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_was_nice_chatting_with_you\group_4,True,51,0,,frame_0001.jpg,frame_0051.jpg
+it was nice chatting with you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_was_nice_chatting_with_you\group_5,True,51,0,,frame_0001.jpg,frame_0051.jpg
+it was nice chatting with you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_was_nice_chatting_with_you\group_6,True,54,0,,frame_0001.jpg,frame_0054.jpg
+it was nice chatting with you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\it_was_nice_chatting_with_you\group_7,True,54,0,,frame_0001.jpg,frame_0054.jpg
+let him take time,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\let_him_take_time\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+let him take time,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\let_him_take_time\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+let him take time,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\let_him_take_time\group_3,True,19,0,,frame_0001.jpg,frame_0019.jpg
+let him take time,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\let_him_take_time\group_4,True,24,0,,frame_0001.jpg,frame_0024.jpg
+let him take time,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\let_him_take_time\group_5,True,33,0,,frame_0001.jpg,frame_0033.jpg
+let him take time,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\let_him_take_time\group_6,True,28,0,,frame_0001.jpg,frame_0028.jpg
+let him take time,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\let_him_take_time\group_7,True,25,0,,frame_0001.jpg,frame_0025.jpg
+my name is xxxxxxxx,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\my_name_is_xxxxxxxx\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+my name is xxxxxxxx,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\my_name_is_xxxxxxxx\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+my name is xxxxxxxx,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\my_name_is_xxxxxxxx\group_3,True,36,0,,frame_0001.jpg,frame_0036.jpg
+my name is xxxxxxxx,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\my_name_is_xxxxxxxx\group_4,True,23,0,,frame_0001.jpg,frame_0023.jpg
+my name is xxxxxxxx,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\my_name_is_xxxxxxxx\group_5,True,29,0,,frame_0001.jpg,frame_0029.jpg
+my name is xxxxxxxx,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\my_name_is_xxxxxxxx\group_6,True,27,0,,frame_0001.jpg,frame_0027.jpg
+my name is xxxxxxxx,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\my_name_is_xxxxxxxx\group_7,True,35,0,,frame_0001.jpg,frame_0035.jpg
+nice to meet you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\nice_to_meet_you\group_1,True,41,0,,frame_0001.jpg,frame_0041.jpg
+nice to meet you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\nice_to_meet_you\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+nice to meet you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\nice_to_meet_you\group_3,True,46,0,,frame_0001.jpg,frame_0046.jpg
+nice to meet you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\nice_to_meet_you\group_4,True,45,0,,frame_0001.jpg,frame_0045.jpg
+nice to meet you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\nice_to_meet_you\group_5,True,52,0,,frame_0001.jpg,frame_0052.jpg
+nice to meet you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\nice_to_meet_you\group_6,True,38,0,,frame_0001.jpg,frame_0038.jpg
+pour some more water into the glass,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\pour_some_more_water_into_the_glass\group_1,True,23,0,,frame_0001.jpg,frame_0023.jpg
+pour some more water into the glass,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\pour_some_more_water_into_the_glass\group_2,True,18,0,,frame_0001.jpg,frame_0018.jpg
+pour some more water into the glass,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\pour_some_more_water_into_the_glass\group_3,True,23,0,,frame_0001.jpg,frame_0023.jpg
+pour some more water into the glass,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\pour_some_more_water_into_the_glass\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+pour some more water into the glass,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\pour_some_more_water_into_the_glass\group_5,True,22,0,,frame_0001.jpg,frame_0022.jpg
+pour some more water into the glass,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\pour_some_more_water_into_the_glass\group_6,True,21,0,,frame_0001.jpg,frame_0021.jpg
+pour some more water into the glass,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\pour_some_more_water_into_the_glass\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+prepare the bed,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\prepare_the_bed\group_1,True,20,0,,frame_0001.jpg,frame_0020.jpg
+prepare the bed,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\prepare_the_bed\group_2,True,17,0,,frame_0001.jpg,frame_0017.jpg
+prepare the bed,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\prepare_the_bed\group_3,True,26,0,,frame_0001.jpg,frame_0026.jpg
+prepare the bed,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\prepare_the_bed\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+prepare the bed,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\prepare_the_bed\group_5,True,32,0,,frame_0001.jpg,frame_0032.jpg
+prepare the bed,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\prepare_the_bed\group_6,True,25,0,,frame_0001.jpg,frame_0025.jpg
+prepare the bed,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\prepare_the_bed\group_7,True,27,0,,frame_0001.jpg,frame_0027.jpg
+serve the food,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\serve_the_food\group_1,True,15,0,,frame_0001.jpg,frame_0015.jpg
+serve the food,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\serve_the_food\group_2,True,15,0,,frame_0001.jpg,frame_0015.jpg
+serve the food,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\serve_the_food\group_3,True,24,0,,frame_0001.jpg,frame_0024.jpg
+serve the food,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\serve_the_food\group_4,True,27,0,,frame_0001.jpg,frame_0027.jpg
+serve the food,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\serve_the_food\group_5,True,31,0,,frame_0001.jpg,frame_0031.jpg
+serve the food,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\serve_the_food\group_6,True,20,0,,frame_0001.jpg,frame_0020.jpg
+serve the food,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\serve_the_food\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+shall we go outside,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\shall_we_go_outside\group_1,True,18,0,,frame_0001.jpg,frame_0018.jpg
+shall we go outside,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\shall_we_go_outside\group_2,True,13,0,,frame_0001.jpg,frame_0013.jpg
+shall we go outside,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\shall_we_go_outside\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+shall we go outside,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\shall_we_go_outside\group_4,True,25,0,,frame_0001.jpg,frame_0025.jpg
+shall we go outside,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\shall_we_go_outside\group_5,True,25,0,,frame_0001.jpg,frame_0025.jpg
+shall we go outside,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\shall_we_go_outside\group_6,True,23,0,,frame_0001.jpg,frame_0023.jpg
+shall we go outside,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\shall_we_go_outside\group_7,True,28,0,,frame_0001.jpg,frame_0028.jpg
+speak softly,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\speak_softly\group_1,True,8,0,,frame_0001.jpg,frame_0008.jpg
+speak softly,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\speak_softly\group_2,True,20,0,,frame_0001.jpg,frame_0020.jpg
+speak softly,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\speak_softly\group_3,True,23,0,,frame_0001.jpg,frame_0023.jpg
+speak softly,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\speak_softly\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+speak softly,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\speak_softly\group_5,True,26,0,,frame_0001.jpg,frame_0026.jpg
+speak softly,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\speak_softly\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+speak softly,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\speak_softly\group_7,True,20,0,,frame_0001.jpg,frame_0020.jpg
+take care of yourself,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\take_care_of_yourself\group_1,True,17,0,,frame_0001.jpg,frame_0017.jpg
+take care of yourself,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\take_care_of_yourself\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+take care of yourself,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\take_care_of_yourself\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+take care of yourself,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\take_care_of_yourself\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+take care of yourself,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\take_care_of_yourself\group_5,True,26,0,,frame_0001.jpg,frame_0026.jpg
+take care of yourself,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\take_care_of_yourself\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+take care of yourself,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\take_care_of_yourself\group_7,True,26,0,,frame_0001.jpg,frame_0026.jpg
+tell me truth,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\tell_me_truth\group_1,True,15,0,,frame_0001.jpg,frame_0015.jpg
+tell me truth,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\tell_me_truth\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+tell me truth,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\tell_me_truth\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+tell me truth,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\tell_me_truth\group_5,True,24,0,,frame_0001.jpg,frame_0024.jpg
+tell me truth,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\tell_me_truth\group_6,True,21,0,,frame_0001.jpg,frame_0021.jpg
+tell me truth,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\tell_me_truth\group_7,True,23,0,,frame_0001.jpg,frame_0023.jpg
+thank you so much,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\thank_you_so_much\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+thank you so much,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\thank_you_so_much\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+thank you so much,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\thank_you_so_much\group_3,True,40,0,,frame_0001.jpg,frame_0040.jpg
+thank you so much,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\thank_you_so_much\group_4,True,40,0,,frame_0001.jpg,frame_0040.jpg
+thank you so much,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\thank_you_so_much\group_5,True,33,0,,frame_0001.jpg,frame_0033.jpg
+thank you so much,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\thank_you_so_much\group_6,True,31,0,,frame_0001.jpg,frame_0031.jpg
+thank you so much,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\thank_you_so_much\group_7,True,44,0,,frame_0001.jpg,frame_0044.jpg
+that is so kind of you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\that_is_so_kind_of_you\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+that is so kind of you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\that_is_so_kind_of_you\group_2,True,31,0,,frame_0001.jpg,frame_0031.jpg
+that is so kind of you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\that_is_so_kind_of_you\group_3,True,47,0,,frame_0001.jpg,frame_0047.jpg
+that is so kind of you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\that_is_so_kind_of_you\group_4,True,35,0,,frame_0001.jpg,frame_0035.jpg
+that is so kind of you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\that_is_so_kind_of_you\group_5,True,38,0,,frame_0001.jpg,frame_0038.jpg
+that is so kind of you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\that_is_so_kind_of_you\group_6,True,32,0,,frame_0001.jpg,frame_0032.jpg
+that is so kind of you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\that_is_so_kind_of_you\group_7,True,40,0,,frame_0001.jpg,frame_0040.jpg
+This place is beautiful,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\This_place_is_beautiful\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+This place is beautiful,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\This_place_is_beautiful\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+This place is beautiful,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\This_place_is_beautiful\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+This place is beautiful,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\This_place_is_beautiful\group_4,True,40,0,,frame_0001.jpg,frame_0040.jpg
+This place is beautiful,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\This_place_is_beautiful\group_5,True,52,0,,frame_0001.jpg,frame_0052.jpg
+This place is beautiful,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\This_place_is_beautiful\group_6,True,39,0,,frame_0001.jpg,frame_0039.jpg
+This place is beautiful,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\This_place_is_beautiful\group_7,True,46,0,,frame_0001.jpg,frame_0046.jpg
+try to understand,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\try_to_understand\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+try to understand,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\try_to_understand\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+try to understand,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\try_to_understand\group_3,True,19,0,,frame_0001.jpg,frame_0019.jpg
+try to understand,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\try_to_understand\group_4,True,40,0,,frame_0001.jpg,frame_0040.jpg
+try to understand,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\try_to_understand\group_5,True,38,0,,frame_0001.jpg,frame_0038.jpg
+try to understand,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\try_to_understand\group_6,True,36,0,,frame_0001.jpg,frame_0036.jpg
+try to understand,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\try_to_understand\group_7,True,40,0,,frame_0001.jpg,frame_0040.jpg
+turn on light turn off light,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\turn_on_light_turn_off_light\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+turn on light turn off light,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\turn_on_light_turn_off_light\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+turn on light turn off light,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\turn_on_light_turn_off_light\group_3,True,19,0,,frame_0001.jpg,frame_0019.jpg
+turn on light turn off light,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\turn_on_light_turn_off_light\group_4,True,31,0,,frame_0001.jpg,frame_0031.jpg
+turn on light turn off light,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\turn_on_light_turn_off_light\group_5,True,38,0,,frame_0001.jpg,frame_0038.jpg
+turn on light turn off light,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\turn_on_light_turn_off_light\group_6,True,28,0,,frame_0001.jpg,frame_0028.jpg
+turn on light turn off light,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\turn_on_light_turn_off_light\group_7,True,34,0,,frame_0001.jpg,frame_0034.jpg
+we are all with you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\we_are_all_with_you\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+we are all with you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\we_are_all_with_you\group_2,True,15,0,,frame_0001.jpg,frame_0015.jpg
+we are all with you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\we_are_all_with_you\group_3,True,24,0,,frame_0001.jpg,frame_0024.jpg
+we are all with you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\we_are_all_with_you\group_4,True,23,0,,frame_0001.jpg,frame_0023.jpg
+we are all with you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\we_are_all_with_you\group_5,True,32,0,,frame_0001.jpg,frame_0032.jpg
+we are all with you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\we_are_all_with_you\group_6,True,28,0,,frame_0001.jpg,frame_0028.jpg
+we are all with you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\we_are_all_with_you\group_7,True,25,0,,frame_0001.jpg,frame_0025.jpg
+wear the shirt,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\wear_the_shirt\group_1,True,16,0,,frame_0001.jpg,frame_0016.jpg
+wear the shirt,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\wear_the_shirt\group_2,True,16,0,,frame_0001.jpg,frame_0016.jpg
+wear the shirt,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\wear_the_shirt\group_3,True,25,0,,frame_0001.jpg,frame_0025.jpg
+wear the shirt,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\wear_the_shirt\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+wear the shirt,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\wear_the_shirt\group_5,True,29,0,,frame_0001.jpg,frame_0029.jpg
+wear the shirt,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\wear_the_shirt\group_6,True,33,0,,frame_0001.jpg,frame_0033.jpg
+wear the shirt,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\wear_the_shirt\group_7,True,31,0,,frame_0001.jpg,frame_0031.jpg
+what are you doing,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_are_you_doing\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+what are you doing,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_are_you_doing\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+what are you doing,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_are_you_doing\group_3,True,37,0,,frame_0001.jpg,frame_0037.jpg
+what are you doing,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_are_you_doing\group_4,True,38,0,,frame_0001.jpg,frame_0038.jpg
+what are you doing,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_are_you_doing\group_5,True,45,0,,frame_0001.jpg,frame_0045.jpg
+what are you doing,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_are_you_doing\group_6,True,40,0,,frame_0001.jpg,frame_0040.jpg
+what are you doing,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_are_you_doing\group_7,True,38,0,,frame_0001.jpg,frame_0038.jpg
+what did you tell him,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_did_you_tell_him\group_1,True,12,0,,frame_0001.jpg,frame_0012.jpg
+what did you tell him,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_did_you_tell_him\group_2,True,18,0,,frame_0001.jpg,frame_0018.jpg
+what did you tell him,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_did_you_tell_him\group_3,True,19,0,,frame_0001.jpg,frame_0019.jpg
+what did you tell him,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_did_you_tell_him\group_4,True,18,0,,frame_0001.jpg,frame_0018.jpg
+what did you tell him,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_did_you_tell_him\group_5,True,19,0,,frame_0001.jpg,frame_0019.jpg
+what did you tell him,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_did_you_tell_him\group_6,True,24,0,,frame_0001.jpg,frame_0024.jpg
+what did you tell him,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_did_you_tell_him\group_7,True,24,0,,frame_0001.jpg,frame_0024.jpg
+what do you do,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_do\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+what do you do,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_do\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+what do you do,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_do\group_3,True,37,0,,frame_0001.jpg,frame_0037.jpg
+what do you do,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_do\group_4,True,36,0,,frame_0001.jpg,frame_0036.jpg
+what do you do,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_do\group_5,True,40,0,,frame_0001.jpg,frame_0040.jpg
+what do you do,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_do\group_6,True,36,0,,frame_0001.jpg,frame_0036.jpg
+what do you think,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_think\group_1,True,41,0,,frame_0001.jpg,frame_0041.jpg
+what do you think,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_think\group_2,True,11,0,,frame_0001.jpg,frame_0011.jpg
+what do you think,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_think\group_3,True,32,0,,frame_0001.jpg,frame_0032.jpg
+what do you think,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_think\group_4,True,30,0,,frame_0001.jpg,frame_0030.jpg
+what do you think,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_think\group_5,True,40,0,,frame_0001.jpg,frame_0040.jpg
+what do you think,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_think\group_6,True,35,0,,frame_0001.jpg,frame_0035.jpg
+what do you think,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_think\group_7,True,40,0,,frame_0001.jpg,frame_0040.jpg
+what do you want to become,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_want_to_become\group_1,True,20,0,,frame_0001.jpg,frame_0020.jpg
+what do you want to become,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_want_to_become\group_2,True,14,0,,frame_0001.jpg,frame_0014.jpg
+what do you want to become,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_want_to_become\group_3,True,24,0,,frame_0001.jpg,frame_0024.jpg
+what do you want to become,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_want_to_become\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+what do you want to become,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_want_to_become\group_5,True,28,0,,frame_0001.jpg,frame_0028.jpg
+what do you want to become,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_want_to_become\group_6,True,23,0,,frame_0001.jpg,frame_0023.jpg
+what do you want to become,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_do_you_want_to_become\group_7,True,26,0,,frame_0001.jpg,frame_0026.jpg
+what happened,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_happened\group_2,True,18,0,,frame_0001.jpg,frame_0018.jpg
+what happened,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_happened\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+what happened,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_happened\group_4,True,15,0,,frame_0001.jpg,frame_0015.jpg
+what happened,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_happened\group_5,True,21,0,,frame_0001.jpg,frame_0021.jpg
+what happened,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_happened\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+what happened,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_happened\group_7,True,21,0,,frame_0001.jpg,frame_0021.jpg
+what have you planned for your career,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_have_you_planned_for_your_career\group_1,True,15,0,,frame_0001.jpg,frame_0015.jpg
+what have you planned for your career,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_have_you_planned_for_your_career\group_2,True,9,0,,frame_0001.jpg,frame_0009.jpg
+what have you planned for your career,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_have_you_planned_for_your_career\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+what is your phone number,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_is_your_phone_number\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+what is your phone number,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_is_your_phone_number\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+what is your phone number,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_is_your_phone_number\group_3,True,47,0,,frame_0001.jpg,frame_0047.jpg
+what is your phone number,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_is_your_phone_number\group_4,True,56,0,,frame_0001.jpg,frame_0056.jpg
+what is your phone number,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_is_your_phone_number\group_5,True,54,0,,frame_0001.jpg,frame_0054.jpg
+what is your phone number,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_is_your_phone_number\group_6,True,45,0,,frame_0001.jpg,frame_0045.jpg
+what is your phone number,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_is_your_phone_number\group_7,True,59,0,,frame_0001.jpg,frame_0059.jpg
+what you want,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_you_want\group_1,True,41,0,,frame_0001.jpg,frame_0041.jpg
+what you want,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_you_want\group_2,True,11,0,,frame_0001.jpg,frame_0011.jpg
+what you want,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_you_want\group_3,True,37,0,,frame_0001.jpg,frame_0037.jpg
+what you want,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_you_want\group_4,True,42,0,,frame_0001.jpg,frame_0042.jpg
+what you want,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_you_want\group_5,True,38,0,,frame_0001.jpg,frame_0038.jpg
+what you want,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_you_want\group_6,True,38,0,,frame_0001.jpg,frame_0038.jpg
+what you want,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\what_you_want\group_7,True,36,0,,frame_0001.jpg,frame_0036.jpg
+when will the train leave,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\when_will_the_train_leave\group_1,True,19,0,,frame_0001.jpg,frame_0019.jpg
+when will the train leave,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\when_will_the_train_leave\group_2,True,10,0,,frame_0001.jpg,frame_0010.jpg
+when will the train leave,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\when_will_the_train_leave\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+when will the train leave,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\when_will_the_train_leave\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+when will the train leave,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\when_will_the_train_leave\group_5,True,20,0,,frame_0001.jpg,frame_0020.jpg
+when will the train leave,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\when_will_the_train_leave\group_6,True,20,0,,frame_0001.jpg,frame_0020.jpg
+when will the train leave,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\when_will_the_train_leave\group_7,True,21,0,,frame_0001.jpg,frame_0021.jpg
+where are you from,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\where_are_you_from\group_1,True,21,0,,frame_0001.jpg,frame_0021.jpg
+where are you from,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\where_are_you_from\group_2,True,11,0,,frame_0001.jpg,frame_0011.jpg
+where are you from,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\where_are_you_from\group_3,True,39,0,,frame_0001.jpg,frame_0039.jpg
+where are you from,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\where_are_you_from\group_4,True,38,0,,frame_0001.jpg,frame_0038.jpg
+where are you from,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\where_are_you_from\group_5,True,38,0,,frame_0001.jpg,frame_0038.jpg
+where are you from,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\where_are_you_from\group_6,True,39,0,,frame_0001.jpg,frame_0039.jpg
+where are you from,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\where_are_you_from\group_7,True,48,0,,frame_0001.jpg,frame_0048.jpg
+who are you,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\who_are_you\group_1,True,11,0,,frame_0001.jpg,frame_0011.jpg
+who are you,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\who_are_you\group_2,True,11,0,,frame_0001.jpg,frame_0011.jpg
+who are you,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\who_are_you\group_3,True,17,0,,frame_0001.jpg,frame_0017.jpg
+who are you,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\who_are_you\group_4,True,16,0,,frame_0001.jpg,frame_0016.jpg
+who are you,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\who_are_you\group_5,True,15,0,,frame_0001.jpg,frame_0015.jpg
+who are you,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\who_are_you\group_6,True,18,0,,frame_0001.jpg,frame_0018.jpg
+who are you,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\who_are_you\group_7,True,22,0,,frame_0001.jpg,frame_0022.jpg
+why are you angry,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_angry\group_1,True,13,0,,frame_0001.jpg,frame_0013.jpg
+why are you angry,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_angry\group_2,True,13,0,,frame_0001.jpg,frame_0013.jpg
+why are you angry,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_angry\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+why are you angry,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_angry\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+why are you angry,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_angry\group_5,True,23,0,,frame_0001.jpg,frame_0023.jpg
+why are you angry,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_angry\group_6,True,24,0,,frame_0001.jpg,frame_0024.jpg
+why are you angry,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_angry\group_7,True,23,0,,frame_0001.jpg,frame_0023.jpg
+why are you crying,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_crying\group_1,True,18,0,,frame_0001.jpg,frame_0018.jpg
+why are you crying,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_crying\group_2,True,13,0,,frame_0001.jpg,frame_0013.jpg
+why are you crying,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_crying\group_3,True,24,0,,frame_0001.jpg,frame_0024.jpg
+why are you crying,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_crying\group_4,True,24,0,,frame_0001.jpg,frame_0024.jpg
+why are you crying,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_crying\group_5,True,20,0,,frame_0001.jpg,frame_0020.jpg
+why are you crying,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_crying\group_6,True,22,0,,frame_0001.jpg,frame_0022.jpg
+why are you crying,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_crying\group_7,True,24,0,,frame_0001.jpg,frame_0024.jpg
+why are you disappointed,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_disappointed\group_1,True,14,0,,frame_0001.jpg,frame_0014.jpg
+why are you disappointed,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_disappointed\group_2,True,14,0,,frame_0001.jpg,frame_0014.jpg
+why are you disappointed,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_disappointed\group_3,True,17,0,,frame_0001.jpg,frame_0017.jpg
+why are you disappointed,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_disappointed\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+why are you disappointed,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_disappointed\group_5,True,18,0,,frame_0001.jpg,frame_0018.jpg
+why are you disappointed,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_disappointed\group_6,True,18,0,,frame_0001.jpg,frame_0018.jpg
+why are you disappointed,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\why_are_you_disappointed\group_7,True,20,0,,frame_0001.jpg,frame_0020.jpg
+you are bad,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_bad\group_1,True,7,0,,frame_0001.jpg,frame_0007.jpg
+you are bad,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_bad\group_2,True,7,0,,frame_0001.jpg,frame_0007.jpg
+you are bad,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_bad\group_3,True,16,0,,frame_0001.jpg,frame_0016.jpg
+you are bad,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_bad\group_4,True,17,0,,frame_0001.jpg,frame_0017.jpg
+you are bad,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_bad\group_5,True,17,0,,frame_0001.jpg,frame_0017.jpg
+you are bad,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_bad\group_6,True,16,0,,frame_0001.jpg,frame_0016.jpg
+you are bad,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_bad\group_7,True,13,0,,frame_0001.jpg,frame_0013.jpg
+you are good,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_good\group_1,True,16,0,,frame_0001.jpg,frame_0016.jpg
+you are good,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_good\group_2,True,9,0,,frame_0001.jpg,frame_0009.jpg
+you are good,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_good\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+you are good,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_good\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+you are good,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_good\group_5,True,21,0,,frame_0001.jpg,frame_0021.jpg
+you are good,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_good\group_6,True,21,0,,frame_0001.jpg,frame_0021.jpg
+you are good,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_good\group_7,True,23,0,,frame_0001.jpg,frame_0023.jpg
+you are welcome,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_welcome\group_1,True,12,0,,frame_0001.jpg,frame_0012.jpg
+you are welcome,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_welcome\group_2,True,21,0,,frame_0001.jpg,frame_0021.jpg
+you are welcome,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_welcome\group_3,True,29,0,,frame_0001.jpg,frame_0029.jpg
+you are welcome,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_welcome\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+you are welcome,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_welcome\group_5,True,34,0,,frame_0001.jpg,frame_0034.jpg
+you are welcome,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_welcome\group_6,True,27,0,,frame_0001.jpg,frame_0027.jpg
+you are welcome,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_are_welcome\group_7,True,34,0,,frame_0001.jpg,frame_0034.jpg
+you can do it,1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_can_do_it\group_1,True,18,0,,frame_0001.jpg,frame_0018.jpg
+you can do it,2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_can_do_it\group_2,True,12,0,,frame_0001.jpg,frame_0012.jpg
+you can do it,3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_can_do_it\group_3,True,22,0,,frame_0001.jpg,frame_0022.jpg
+you can do it,4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_can_do_it\group_4,True,22,0,,frame_0001.jpg,frame_0022.jpg
+you can do it,5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_can_do_it\group_5,True,22,0,,frame_0001.jpg,frame_0022.jpg
+you can do it,6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_can_do_it\group_6,True,20,0,,frame_0001.jpg,frame_0020.jpg
+you can do it,7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_can_do_it\group_7,True,19,0,,frame_0001.jpg,frame_0019.jpg
+"you do anything, i do not care",1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_do_anything_i_do_not_care\group_1,True,22,0,,frame_0001.jpg,frame_0022.jpg
+"you do anything, i do not care",2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_do_anything_i_do_not_care\group_2,True,14,0,,frame_0001.jpg,frame_0014.jpg
+"you do anything, i do not care",3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_do_anything_i_do_not_care\group_3,True,23,0,,frame_0001.jpg,frame_0023.jpg
+"you do anything, i do not care",5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_do_anything_i_do_not_care\group_5,True,31,0,,frame_0001.jpg,frame_0031.jpg
+"you do anything, i do not care",6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_do_anything_i_do_not_care\group_6,True,29,0,,frame_0001.jpg,frame_0029.jpg
+"you do anything, i do not care",7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_do_anything_i_do_not_care\group_7,True,25,0,,frame_0001.jpg,frame_0025.jpg
+"you need a medicine, take this one",1,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_need_a_medicine_take_this_one\group_1,True,31,0,,frame_0001.jpg,frame_0031.jpg
+"you need a medicine, take this one",2,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_need_a_medicine_take_this_one\group_2,True,22,0,,frame_0001.jpg,frame_0022.jpg
+"you need a medicine, take this one",3,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_need_a_medicine_take_this_one\group_3,True,20,0,,frame_0001.jpg,frame_0020.jpg
+"you need a medicine, take this one",4,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_need_a_medicine_take_this_one\group_4,True,48,0,,frame_0001.jpg,frame_0048.jpg
+"you need a medicine, take this one",5,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_need_a_medicine_take_this_one\group_5,True,63,0,,frame_0001.jpg,frame_0063.jpg
+"you need a medicine, take this one",6,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_need_a_medicine_take_this_one\group_6,True,45,0,,frame_0001.jpg,frame_0045.jpg
+"you need a medicine, take this one",7,D:\Mini project HHAI\nexus\Dataset\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\bulk_sentence_sequences\you_need_a_medicine_take_this_one\group_7,True,47,0,,frame_0001.jpg,frame_0047.jpg

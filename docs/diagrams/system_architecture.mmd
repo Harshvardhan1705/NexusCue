@@ -1,0 +1,18 @@
+flowchart LR
+ U[User] --> GUI[Tkinter desktop UI]
+ GUI --> SR[SpeechRecognition + PyAudio]
+ SR --> TXT[Editable transcript]
+ TXT --> HTTP[Requests client]
+ HTTP --> API[FastAPI + Uvicorn]
+ API --> R[Renderer subprocess]
+ R --> SE[Sentence sequence engine]
+ R --> GE[Gloss engine]
+ SE --> SF[(Sentence frames)]
+ GE --> CSV[(CSV gloss corpus)]
+ R --> WF[(Word-level assets)]
+ R --> AZ[(A-Z alphabet assets)]
+ R --> CV[OpenCV renderer]
+ CV --> MP4[Generated MP4]
+ MP4 --> API
+ API --> GUI
+ GUI --> PV[OpenCV + Pillow preview]

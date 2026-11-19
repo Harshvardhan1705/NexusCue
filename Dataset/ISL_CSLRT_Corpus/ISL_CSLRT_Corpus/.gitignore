@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+desktop_generated_videos/
+api_generated_videos/
+sign_output.mp4
+*.log
+.vscode/
+.idea/
+.env
+.env.*
+.DS_Store
+Thumbs.db

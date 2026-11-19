@@ -1,0 +1,17 @@
+sequenceDiagram
+ actor User
+ participant UI as Tkinter UI
+ participant API as FastAPI
+ participant Engine as Renderer subprocess
+ participant Disk as Output files
+ User->>UI: Speak/type sentence
+ UI->>API: POST /api/generate
+ API->>API: Acquire generation lock
+ API->>Engine: Run renderer with UTF-8 environment
+ Engine->>Engine: Resolve sequence / gloss / fallback
+ Engine->>Disk: Write sign_output.mp4
+ Engine-->>API: Exit status
+ API->>Disk: Copy to unique MP4 filename
+ API-->>UI: video/mp4 + mode headers
+ UI->>Disk: Save generated MP4
+ UI-->>User: Preview and playback

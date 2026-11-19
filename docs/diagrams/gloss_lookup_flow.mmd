@@ -1,0 +1,10 @@
+flowchart TD
+ A[Input sentence] --> B[Normalize case, punctuation, apostrophes and spaces]
+ B --> C[Load cached CSV dictionary]
+ C --> D{Exact normalized key?}
+ D -->|Found| E[Return stored gloss]
+ D -->|Not found| F[Return None; do not invent gloss]
+ E --> G[Tokenize gloss]
+ G --> H[Resolve aliases and sign assets]
+ F --> I[English fingerspelling fallback]
+ H -->|Asset missing| I

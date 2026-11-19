@@ -1,0 +1,106 @@
+{
+    "A": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\A\\816.jpg",
+        "score": 0.6702
+    },
+    "B": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\B\\657.jpg",
+        "score": 0.7074
+    },
+    "C": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\C\\867.jpg",
+        "score": 0.6818
+    },
+    "D": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\D\\606.jpg",
+        "score": 0.7392
+    },
+    "E": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\E\\E_aap_44.jpg",
+        "score": 0.9733
+    },
+    "F": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\F\\F_aap_940.jpg",
+        "score": 0.9634
+    },
+    "G": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\G\\34.jpg",
+        "score": 0.6639
+    },
+    "H": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\H\\590.jpg",
+        "score": 0.7661
+    },
+    "I": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\I\\I_aap_84.jpg",
+        "score": 0.6726
+    },
+    "J": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\J\\ary156.jpg",
+        "score": 0.9103
+    },
+    "K": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\K\\K_aap_91.jpg",
+        "score": 0.9144
+    },
+    "L": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\L\\367.jpg",
+        "score": 0.5025
+    },
+    "M": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\M\\12.jpg",
+        "score": 0.7437
+    },
+    "N": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\N\\171.jpg",
+        "score": 0.9408
+    },
+    "O": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\O\\70.jpg",
+        "score": 0.4477
+    },
+    "P": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\P\\100.jpg",
+        "score": 0.9681
+    },
+    "Q": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\Q\\Q_aap_46.jpg",
+        "score": 0.9481
+    },
+    "R": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\R\\652.jpg",
+        "score": 0.9245
+    },
+    "S": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\S\\524.jpg",
+        "score": 0.8966
+    },
+    "T": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\T\\ary166.jpg",
+        "score": 0.7659
+    },
+    "U": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\U\\557.jpg",
+        "score": 0.55
+    },
+    "V": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\V\\512.jpg",
+        "score": 0.742
+    },
+    "W": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\W\\ary92.jpg",
+        "score": 0.9032
+    },
+    "X": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\X\\ary86.jpg",
+        "score": 0.9796
+    },
+    "Y": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\Y\\502.jpg",
+        "score": 0.9499
+    },
+    "Z": {
+        "image": "..\\..\\ISL_Alphabet\\Training\\Z\\Z_aap_44.jpg",
+        "score": 0.9637
+    }
+}
