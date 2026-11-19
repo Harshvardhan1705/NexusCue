@@ -168,3 +168,10 @@ Response headers:
 4. Decide whether Python will run remotely, on a local network or be redesigned for offline Android.
 5. Expand coverage using properly annotated ISL data.
 6. Evaluate linguistic validity with qualified ISL reviewers before making translation-accuracy claims.
+
+## 📚 Documentation
+
+- [Dataset Setup Guide](DATASET_SETUP.md) – Download links, dataset extraction, folder structure, and setup instructions.
+- [Technical Documentation](TECHNICAL_DOCUMENTATION.md) – Project architecture, implementation, libraries, and workflow.
+- [Technical Report (DOCX)](NexusCue_Technical_Documentation.docx) – Detailed project report.
+- [Architecture & Flow Diagrams](docs/diagrams/) – System architecture and processing flow diagrams.
